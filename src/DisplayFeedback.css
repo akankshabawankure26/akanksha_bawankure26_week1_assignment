@@ -1,0 +1,11 @@
+
+.feedback-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f0b1b1;
+    border-radius: 20px;
+    border: 5px solid #2b0d49;
+}
+
